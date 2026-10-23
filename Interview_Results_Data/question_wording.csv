@@ -1,0 +1,12 @@
+item,question
+QO1,The complete set of concern clusters provides adequate coverage of the relevant ethical concerns addressed by the study.
+QO2,The recurring Know → Protect → Inform → Assess → Verify → Respond structure provides a coherent basis for translating concern clusters into operational recommendations.
+QO3,"Overall, the proposed catalogue provides a useful structure for moving from identified concerns to actionable recommendations in software/system engineering practice."
+QC1,The definition and scope appropriately delimit this concern cluster.
+QC2,The mapping to the selected ethics-label card(s) and characteristic(s) is semantically appropriate.
+QC3,Using the ethics-label cards and characteristics as a classification mechanism provides a coherent way to organize the concern clusters.
+QC4,The concerns included in this cluster are conceptually coherent and appropriately grouped together.
+QC5,"Taken together, the proposed actions adequately cover the main concerns represented by this cluster."
+QC6,The proposed possible evidence/artifacts are plausible and sufficiently flexible for use across different organizations.
+QC7,The proposed possible SDLC phases are plausible and sufficiently flexible for use across different organizations.
+QC8,The proposed possible responsible roles are plausible and sufficiently flexible for use across different organizations.

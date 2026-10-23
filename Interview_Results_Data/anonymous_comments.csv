@@ -1,0 +1,275 @@
+expert,profile,cluster,item,comment
+Expert 1,Academia,Overall,QO1,The answer holds only for the ones answeerd here
+Expert 1,Academia,Overall,QO2,Assess should be befire Inform phase
+Expert 1,Academia,Overall,QO3,"For it to become actionable, it depends on the problem teh software is targeting. Providing examples of actionable things could improve it."
+Expert 1,Academia,C16,QC1,data quality is strange here. It should be not be only interperetd as fault as it is now in the .definition
+Expert 1,Academia,C16,QC5,"Some concerns are not part of the phases; e.g., in the inform phase, this reduces the significance/usefulness of the methodology. Each phase should consider all concerns. Assess phase should be before the inform. The definition of action in the respond phase should include, mitigate/act and similar actions. "
+Expert 1,Academia,C16,QC6,it depends on the context of teh software
+Expert 1,Academia,C16,QC7,phases are mostly connected with each other in general in software development. These are a bit specific
+Expert 1,Academia,C16,QC8,Roles will also depend on what needs to be fixed. Here they are a bit generic.
+Expert 1,Academia,C17,QC3,The characteristics for management of effects are a bit generic; it could be specific
+Expert 1,Academia,C17,QC4,Trust should be part of this group
+Expert 1,Academia,C17,QC5,"The definition of respond is not something that shall be done post-deployment, but rather pre-deployment."
+Expert 1,Academia,C17,QC6,Look for some tools that can verify the evidence. You could also use questionnaires to see if people understand the explanation.
+Expert 1,Academia,C17,QC7,"same comment as from the last concern, with agile, these phases are no longer separated but rather mixed and dependent on each other"
+Expert 1,Academia,C18,QC2,Intellectual property from human should be in societal part. Generic characteristics for risk mitigation as commented in the last clusters.
+Expert 1,Academia,C18,QC5,Before release and after material changes from ASSESS phase should be in verify phase
+Expert 1,Academia,C18,QC6,same comment as last clusters
+Expert 1,Academia,C18,QC7,same as before
+Expert 1,Academia,C18,QC8,Maybe the product manager should not be part of last phase.
+Expert 2,Academia,Overall,QO2,I like it
+Expert 2,Academia,C19,QC1,It mixes professional perspective that doesn't impact software product and still a profesional perspective that does impact the product
+Expert 2,Academia,C19,QC2,"Add to the human card, add privacy and data governance. Also to the societal card, add all but society and democracy. If going to the most, I agree with responsability and accountability. Considering the subcharacteristics of environmental side is covered."
+Expert 2,Academia,C19,QC4,It mixes two different prespectives
+Expert 2,Academia,C19,QC5,"Add company guidelines about ethics, company philosophy in general"
+Expert 2,Academia,C19,QC7,Add planning for the Inform phase. In the assess phase removing planning
+Expert 2,Academia,C19,QC8,Add in the verify phase product. In the respond phase we should add technical leads
+Expert 2,Academia,C20,QC2,"I suggest to add not harmfulness under human. I suggest to add openness and plurality under societal, for the same reason for which inclusive and participatory design is present."
+Expert 2,Academia,C20,QC3,"I'm not sure it is enough for C20. It is coherent but maybe not complete enough when talking about utility, usefulness, and usability?"
+Expert 2,Academia,C20,QC7,"I suggest to add maintenance to the inform phase, since also information, feedback and limitations can evolve due to evolution and  maintenance activities."
+Expert 2,Academia,C21,QC2,"Given that the cluster includes dignity, I suggest to also add diversity, fairness and non discrimination under societal. Also, there might be an indirect mapping with society and democracy, since we deal with the concerns of freedom, autonomy, and dignity. In the definition of the concern indeed there is also manipulation and ability to act, that might be affected by a system (see social networks) and affect society and democracy."
+Expert 2,Academia,C21,QC6,"I think so, however I'm not an expert of artifacts related to these concerns."
+Expert 3,Academia,Overall,QO2,"The actions are raesonable but the order of the cycle is somehow not clear. The terms are somewhat high-level, not all of them can be measured."
+Expert 3,Academia,Overall,QO3,The developers (all roles) can find a way to connect these recommendations with help of this catalogue as a first step.
+Expert 3,Academia,C10,QC2,Minimizing/mitigating risk is similar to being non-harmful. This can be made more specific.
+Expert 3,Academia,C10,QC4,Computer abuse should be renamed as Purpose Abuse
+Expert 3,Academia,C10,QC7,Verify can be renamed as validate. Change phase should be specified as evolution. the actions are not tied specifically to the life cycle but are rather apparent.
+Expert 3,Academia,C10,QC8,Developers should be there in the Protect phase. Engineering should be changed to developing. Also in respond phase.
+Expert 3,Academia,C11,QC5,"discovery phase is not clear, it can happen at any stage. knowing requirements is also discovering. "
+Expert 3,Academia,C11,QC7,The verify phase has same comment on change like in last concern interviewed. Validation should be renamed as verification.
+Expert 3,Academia,C11,QC8,"the roles are supposed to be product manager, and not product. The roles are also not matching based on teh definition. Q/A in the protect phase should not be there"
+Expert 3,Academia,C12,QC1,The correct term is software freedomS
+Expert 3,Academia,C12,QC5,As not an expert in this domain they sound reasonable
+Expert 4,Academia,Overall,QO2,protect phase maybe be behind inform and assess phase
+Expert 4,Academia,Overall,QO3,it maybe too much abstract at first for the newbie.
+Expert 4,Academia,C13,QC1,the definition should include career growth. Skill transition can be better clarified.
+Expert 4,Academia,C13,QC2,"Transparency and explainability should be added to the human card as well. Openness, plurality, and cultural sensitivity should be included in the societal card."
+Expert 4,Academia,C13,QC6,The evidence of work efficiency and some documentation should be there in the information part and in others where fitting.
+Expert 4,Academia,C13,QC7,"To add the implementation phase in SLDC, separating it from design and deployment."
+Expert 4,Academia,C14,QC2,"in the societal card diversity, fairness and non-discrimination should be included. Transparency and explainability should be included in the human card."
+Expert 4,Academia,C14,QC4,Some concerns can be split.
+Expert 4,Academia,C14,QC6,"In the know phase and inform phase, the principle of autonomy concern can be added. As a result, artifact guidleines/procolomation or statements can be added."
+Expert 4,Academia,C15,QC2,cultural sensitivity should be included in the societal card and the human card should be extended by beneficence
+Expert 4,Academia,C15,QC7,The operation phase can be omitted from the inform phase as well as the responsible roles. Same for operations in verify phase.
+Expert 5,Academia,Overall,QO3,The structure of the results into paper/replication pkg can be organised better to not jump within .tabs
+Expert 5,Academia,C13,QC4,Software Freedom can be mapped in this cluster also
+Expert 5,Academia,C13,QC7,They should have a maintenance phase too. The protect should also have maintenance. 
+Expert 5,Academia,C14,QC3,The characteristics can be divided into primary or secondary based on their impact
+Expert 5,Academia,C14,QC4,Maybe the concerns can be divided based on the positive or negative and/or individual or collective
+Expert 5,Academia,C14,QC7,The protect phase should have maintenance here also
+Expert 5,Academia,C15,QC3,having primary and secondary division between characteristics can be helpful for final prototype based on their impact. They should help choose actions based on thsi priority also.
+Expert 5,Academia,C15,QC7,The know phase should have maintenance and monitoring. The inform should also have maintenance and monitoring.
+Expert 6,Academia,Overall,QO2,Also the mapping for the SDLC
+Expert 6,Academia,C22,QC1,To add in the definition what is described in the protect cycle regarding human oversight
+Expert 6,Academia,C22,QC2,I would revise the principle of autonomy from the human card regarding the cluster definition
+Expert 6,Academia,C22,QC6,"It would be interesting a traceability mapping between the artifacts on the requirement, and operation stage and (verify stage). Authomatize this for all the requirements, being ethical or not"
+Expert 6,Academia,C22,QC8,"Depends on the company organizational structure, so it's difficult to evaluate"
+Expert 6,Academia,C23,QC1,"The use of sustainability is only regarding the environmental dimension, so maybe use only the environmental impact for the concern class."
+Expert 6,Academia,C23,QC4,"The use of sustainability is only regarding the environmental dimension, so maybe use only the environmental impact for the concern class."
+Expert 6,Academia,C23,QC6,Consider also to add the auditable records and existing measurements and reporting frameworks/templates
+Expert 6,Academia,C23,QC8,"Depends on the company organizational structure, so it's difficult to evaluate"
+Expert 6,Academia,C24,QC2,"Consider including in the human card the not-harmfull, because of the safeguard in the definition of the cluster"
+Expert 6,Academia,C24,QC5,"The actions described in the Inform cycle, which is timely informed and clearly consent for the protect cycle are crucial to address this cluster"
+Expert 6,Academia,C24,QC8,"Depends on the company organizational structure, so it's difficult to evaluate"
+Expert 7,Academia,Overall,QO1,"some of them are ambigious such as trustworthiness, sustainability as they can have multiple meanings."
+Expert 7,Academia,C10,QC2,Clarification is needede for minimization and mitigation define that minimization is during the design and implementation phase while mitigation is during the deployment phase.
+Expert 7,Academia,C10,QC6,"in the know phase, possible regulation may also be considered as they apply to sensitive domains and specific actiona are required by regulations. In verify compliance should eb added"
+Expert 7,Academia,C10,QC8,in the know phase regulation experts can be added
+Expert 7,Academia,C11,QC1,"A clear definition of trust is required, e.g., if trust means being safe, accurate, unbiased etc."
+Expert 7,Academia,C11,QC2,"Diversity, fairness and non-discrimination should also be part of human card, as it applies to both. Same comment on minimizationa nd mitigation as before."
+Expert 7,Academia,C11,QC3,A clear definition of trust is missing. it can help better classify the concern clusters
+Expert 7,Academia,C11,QC6,"The know phase is too generic, it can eb reworked eg to include how stakeholders define trustworthiness define trustworthiness. this will clarify next steps as well. In the protect phase, adding the mechanism for protecting sensitive data should be included"
+Expert 7,Academia,C12,QC2,"management of adverse effects is generic for all concerns, it can be customised probably."
+Expert 7,Academia,C12,QC6,"In the know, specific regulations that may protect data or reuse of software that uses data which is already protected should be added. "
+Expert 8,Academia,Overall,QO1,"- Reading, for instance, ""speech issues"" and ""axiology,"" they seem to operate at different semantic and conceptual levels. Therefore, I am not sure whether C-03 can be considered fully adequate.
+
+- Usually, Transparency and Explainability are put together. I'm wondering why C-08 and C-17 are separate"
+Expert 8,Academia,Overall,QO3,"I think it could be strenghtened by a recurring example, to better understand how these concerns apply in real cases"
+Expert 8,Academia,C07,QC2,Sustainability promotion and use can be part of this class as well.
+Expert 8,Academia,C07,QC5,some actions can be extended. Such as some practical examples throughout the pahses
+Expert 8,Academia,C07,QC8,"There can be some other roles, or not these roles"
+Expert 8,Academia,C08,QC2,"Maybe also Human -> (Not) Harmfulness (Whether system use avoids or may cause harm,
+including foreseeable misuse) is appropriate for this case, as having a Transparent and Traceable behavior could prevent foreseeable misuse.
+
+For Societal it is not clear to me why this concern relates to openness and plurality"
+Expert 8,Academia,C08,QC4,"I'm not sure about the ""communication"" aspect as I do not know its original definition. Also Lack of Data seems a negative concern, while the others are formulated as neutral or positive"
+Expert 8,Academia,C08,QC5,"Regarding C08-A3 I was wondering if its description can match with the one of auditability. If so, this term could emerge.
+For C08-A5, does this action only applies to disclosures or documentation? Maybe also other software parts are affected"
+Expert 8,Academia,C08,QC8,"There can be some other roles, or not these roles"
+Expert 8,Academia,C09,QC5,"Maybe in C09-A2 also the term 'non-discriminatory', such as Implement ... non-discrimiantory behavior"
+Expert 8,Academia,C09,QC6,"I think they are flexible, but they may vary based on the software type the organization produces. "
+Expert 8,Academia,C09,QC7,Maybe 'change' is missing in C09-A5
+Expert 8,Academia,C09,QC8,"There can be some other roles, or not these roles"
+Expert 9,Academia,Overall,QO1,"some of the concerns should not be merged with others, e.g., individual differences and conflict of interest"
+Expert 9,Academia,Overall,QO2,This is also to provide guidance and not only to operationalise
+Expert 9,Academia,C04,QC5,"Dependability should also be perceived by the user. In inform, assess, and verify, one can also assess how the user perceives the product. The know phase should have Discovery as the SLDC phase"
+Expert 9,Academia,C04,QC6,the eveidence misses evidence about dependecy
+Expert 9,Academia,C04,QC7,The assess should have validation as well. how do you test it
+Expert 9,Academia,C05,QC1,"The management of adversarial effects is not clear, that's why it is here. Transparency and explainability are something that seems forced. Conflict of interest in this context is different. Should not be mixed here. You can split it."
+Expert 9,Academia,C05,QC5,"Individual differences are not verified, it should be there too."
+Expert 9,Academia,C06,QC3,Formulation of QC3 is more and only methodological than practical
+Expert 9,Academia,C06,QC7,"in the protect cycle, it should also concern the requirement phase, and assessment should have maintanence"
+Expert 10,Academia,Overall,QO1,clear boundaries/guidance for handling concerns needs to be taken care of 
+Expert 11,Academia,C04,QC2,"The mapping is semantically defensible , but reliability and resilience are primarly technical systems properties, whereas the labels are captured indirectly"
+Expert 11,Academia,C04,QC3,"The lethics abels are suitable as organizing lens, but not as a complete taxonomy of technical concerns"
+Expert 11,Academia,C04,QC8,"I would put more in terms of organization areas intead of roles, because sometimes the companies don't have dedicate SRE or risk role"
+Expert 11,Academia,C05,QC3,"The mapping is semantically defensible , but reliability and resilience are primarly technical systems properties, whereas the labels are captured indirectly"
+Expert 11,Academia,C05,QC4,"I find context and individual differences are conceptual related, but I would consider separating it. Conflict of interests seems qualitative different as it is primarly in governance and decision-making concern"
+Expert 11,Academia,C05,QC5,"It seems that the coverage somehow hetrogeneous. Individual differences is addressed as design and usage concern, whole the conflict of interested is addressed as the governance"
+Expert 11,Academia,C05,QC6,The artifacts are flexible enough althouhg some are evidence of conceptual different concerns. It would be better if they are separeted.
+Expert 11,Academia,C05,QC8,"Maybe explicity including compliance and legal or ethics functions for conflict of interest management, where wuch functions exist"
+Expert 11,Academia,C06,QC8,"I would put more in terms of organization areas intead of roles, because sometimes the companies don't have dedicate SRE or risk role"
+Expert 12,Academia,Overall,QO2,"The sequence is correct, but they sometimes overlap, but I don't know if this is a problem"
+Expert 12,Academia,C01,QC2,We could add energy consumption and sustainability promotion use
+Expert 12,Academia,C01,QC7,"To specify that they are independent of the process in general, because then if they are not independent we can add testing or verification"
+Expert 12,Academia,C02,QC8,For the action Know the architecture/engineering should not be responsible. Also in the Assess the Responsible AI should not be added
+Expert 14,Industry,Overall,QO1,Limited knowledge for a compelete assesmnet
+Expert 14,Industry,C01,QC1,Responsibility and accountability are not reflected in the definition. Lawfulness is different from accountability.
+Expert 14,Industry,C01,QC4,"Cluster name is almost same as teh convcerns, it could be shrinked and only called Privacy/ Privacy & data protection."
+Expert 14,Industry,C01,QC5,"The inform phase should also have developers in its definition, e.g. data leakage, for audits that they can do on the process. "
+Expert 14,Industry,C01,QC6,The evidence and artifacts could be expanded
+Expert 14,Industry,C01,QC7,know and protect phase could have more phases. Why are requirements is not in protect and implementation is not part of know.
+Expert 14,Industry,C02,QC1,"Privacy could have this as well, anonymizationa nd data minimization can be considered here in the definition. The definition is also hard to read."
+Expert 14,Industry,C02,QC4,if u are talking about cross cluster coherence then yes. Intra-class coherence cannot be evaluated.
+Expert 14,Industry,C02,QC6,the evidences can be expanded ehre as well like last cluster
+Expert 14,Industry,C02,QC7,why requirements is not part of protect. 
+Expert 14,Industry,C03,QC1,The definition remains hard to read. 
+Expert 14,Industry,C03,QC4,if u are talking about cross cluster coherence then yes. Intra-class coherence cannot be evaluated.
+Expert 14,Industry,C03,QC5,"in the definition of respond, monitor should not be there."
+Expert 14,Industry,C03,QC7,"Here, requirements are part of protect; like, it should be in the last two as well. Inform should have requirements and implementation as well."
+Expert 15,Industry,C10,QC3,"There are some items that are not clearly explained, and I'm not sure if this is enough"
+Expert 15,Industry,C10,QC4,The grouping makes the analysis more difficult because some chacacteristics make sense for one specific concern but not for the others
+Expert 15,Industry,C10,QC5,I suggest that the principles that have guidiing laws should be citted and included
+Expert 15,Industry,C10,QC6,"In the Protect phase the architecture term should not be used. There are architectural issues, however the records are mainly for module uses. In the Asses phases, include user records (being human or not) to be monitored, since informed to the user."
+Expert 15,Industry,C10,QC7,"In the Know phase, Design should be added in the SDLC phase. In the Asses phase, I also would add the Maintenance phase in the SDLC"
+Expert 15,Industry,C11,QC5,I would change the Monitor failures action from the Respond to the Assess phase
+Expert 15,Industry,C11,QC6,"In the Protect phase implement legal, and ethical principles. In the Assess phase, involve also monitoring to know what is happening. "
+Expert 16,Industry,C22,QC5,In the Inform cycle we could add some Explainability techniques to provide more information/resouce report to the user. Provide the justification of the decision (mainly in critical domains)
+Expert 16,Industry,C23,QC6,The artifacts are described in a general way. Some could be described in a more specific way
+Expert 16,Industry,C24,QC2,Responsability and Accountability in the Societal card is partially related to this cluster
+Expert 16,Industry,C24,QC5,"Un-learning. It is a way to not forget. Ex. ""I don't want this data to train my model"". After the training is performed. So you have to fix the mistake"
+Expert 17,Industry,C19,QC2,"I would add in the Human card Privacy and data governance; In the societal add Diversity, fairness, and non-discrimination"
+Expert 17,Industry,C19,QC4,"Expose the difference between internal and external ethics should be separated concerns, because they have different objectives."
+Expert 17,Industry,C19,QC5,"In the Know phase, when you say a system material responsability in the case of business ethics I think that it relates more to the people involved than the software itself"
+Expert 17,Industry,C19,QC6,"In the artifact column I would provide more details that what should be included in the artifact and in some cases, the artifact can be another piece of software (verify in particular)"
+Expert 17,Industry,C20,QC1,It is not very obvious how those concerns relate with ethics without clear examples
+Expert 17,Industry,C20,QC2,"I woul add in the card Human, transparency and explainability and also not-harmfullnes"
+Expert 17,Industry,C20,QC4,Accessability is also relevant in this cluster
+Expert 17,Industry,C20,QC5,"To me the actions are more focused on usability than in the utility and usefullness concerns. I would add actions related to also avoiding possible negative utility. In the Respond phase, I would add action monitoring side effects."
+Expert 17,Industry,C20,QC6,In the inform phase also could include a sort of transparency artifact.
+Expert 17,Industry,C21,QC2,I would add privacy and data governance in the card Human.
+Expert 18,Industry,Overall,QO1,"The catalogue provides broad coverage of the ethical concerns identified in the study. Although some overlap exists between certain clusters, this does not significantly reduce the overall coverage."
+Expert 18,Industry,Overall,QO2,"The recurring structure is coherent because it moves from understanding the concern to implementing safeguards, communicating relevant information, assessing risks, verifying effectiveness, and responding to issues."
+Expert 18,Industry,Overall,QO3,"The catalogue provides a useful bridge between high-level ethical concerns and practical software/system engineering activities by linking concerns to actions, possible evidence, SDLC phases, and responsible roles."
+Expert 18,Industry,C16,QC1,"The definition is clear and captures both system-level robustness and data-quality aspects. However, the relationship between “resilience” in this cluster and the separate C-04 Reliability, Dependability & Resilience cluster could be clarified to reduce possible overlap. Since “resilience” appears in both C-04 and C-16, I think the boundary between the two clusters could be made clearer."
+Expert 18,Industry,C16,QC2,"The mapping is generally semantically appropriate. The connection to Privacy and Data Governance / Intellectual Property and Transparency and Explainability could be explained more explicitly, particularly which aspects of C-16 motivate these mappings."
+Expert 18,Industry,C16,QC3,The ethics-label cards and characteristics provides a coherent way for organizing the concern clusters. It allows the concern cluster to be associated with multiple relevant ethics-label characteristics rather than restricting it to a single category.
+Expert 18,Industry,C16,QC4,"The concerns are generally coherent. The main potential overlap is resilience, which also appears in the C-04 Reliability, Dependability & Resilience cluster, so the distinction between the two uses could be clarified."
+Expert 18,Industry,C16,QC5,"The proposed actions provide good coverage of the cluster. It could be useful to include an explicit feedback loop, so that findings from monitoring, verification, or incidents lead to reassessment and, where necessary, corrective actions."
+Expert 18,Industry,C16,QC6,The proposed artifacts are plausible and flexible
+Expert 18,Industry,C16,QC7,The proposed SDLC phases are generally appropriate and cover the lifecycle well.
+Expert 18,Industry,C16,QC8,"The proposed roles are reasonable and sufficiently broad. Since the cluster also considers system behaviour under attack, a security role could be considered where relevant."
+Expert 18,Industry,C17,QC1,"The definition is clear and appropriate. However, since “communication” also appears in other concern clusters, such as C-08 and C-24, its specific scope within C-17 could be clarified to reduce possible overlap."
+Expert 18,Industry,C17,QC2,"The mapping is appropriate, particularly for Transparency and Explainability, Principle of Autonomy, and Responsibility and Accountability. The management of adverse effects characteristics are also relevant where inadequate or misleading explanations may contribute to negative impacts."
+Expert 18,Industry,C17,QC3,The ethics-label framework provides a coherent way to organize C-17 because the concerns can be linked to several relevant ethical dimensions rather than a single category.
+Expert 18,Industry,C17,QC4,"The concerns are generally coherent and well grouped. However, the scope of “communication” within C-17 could be clarified to distinguish it from communication-related concerns in other clusters."
+Expert 18,Industry,C17,QC5,"The proposed actions provide good coverage of the cluster. It could be useful to make the feedback loop (continuous improvement loop) clearer, so that issues identified through verification or stakeholder feedback lead to improvements in the explanation mechanisms."
+Expert 18,Industry,C17,QC6,"The proposed artifacts are plausible and sufficiently flexible. They provide useful evidence. It may also be useful to allow stakeholder feedback or user-testing results as evidence, particularly for assessing whether explanations are understandable and useful to their intended audience."
+Expert 18,Industry,C17,QC7,The proposed SDLC phases are plausible and sufficiently flexible.
+Expert 18,Industry,C17,QC8,"The roles are well chosen overall because explainability is not only a technical issue; it also involves user understanding, domain context, communication, and governance. One possible observation is that Engineering appears under Protect but not under Respond, even though correcting or updating explanation mechanisms after issues are identified may require technical changes."
+Expert 18,Industry,C18,QC1,The definition is clear and appropriate
+Expert 18,Industry,C18,QC2,The mapping is semantically appropriate
+Expert 18,Industry,C18,QC3,"The ethics-label framework provides a coherent way to organize C-18 because compliance and data governance relate to several broader ethical dimensions, including privacy, accountability, transparency, and risk management."
+Expert 18,Industry,C18,QC4,The grouping is coherent overall
+Expert 18,Industry,C18,QC5,"The proposed actions provide good coverage of the cluster. Because regulations and data-governance requirements can change over time, it could be useful to make the feedback loop more explicit, so that regulatory changes, nonconformities, or verification findings lead to reassessment and updates to the relevant controls and governance practices."
+Expert 18,Industry,C18,QC6,"The proposed artifacts are plausible and sufficiently flexible. It could be useful to clarify that these records may also be maintained in digital or automated forms, such as governance platforms, audit logs, or compliance tracking systems, rather than only as formal documents."
+Expert 18,Industry,C18,QC7,The proposed SDLC phases are generally appropriate and cover the lifecycle well.
+Expert 18,Industry,C18,QC8,"The proposed roles are well chosen and sufficiently broad. However, Engineering or Architecture could also be considered under Respond where regulatory changes or nonconformities require technical changes to the system."
+Expert 19,Industry,C04,QC6,In the Inform phase add in the Artifact a kind of measure to inform the stakeholders if the behavior is working as expected;
+Expert 19,Industry,C04,QC7,"In the Know phase of the cycle I would add the Design phase, and in this same phase I would withdraw the Operations/SRE and add Engineering; in the phase Protect I would include in the SDLC the Architecture; In the Assess phase, add the Engineering in the SDLC and responsible role."
+Expert 19,Industry,C05,QC6,In the Protect phase I would add in the artifacts a risk map/matrix
+Expert 19,Industry,C05,QC7,"In the Inform phase, I would add the whole cycle as this is important in all the phases of the SDLC"
+Expert 19,Industry,C05,QC8,In the Protect phase I would cut the Engineering role
+Expert 19,Industry,C06,QC7,"In the Protect phase I would include in the SDLC the Requirement. In the Inform phase, include all the phases of the SDLC; In the assess phase, include in the SDLC Engineering and Architecture; in the Respond phase add Architecture and Engineering in the SDLC"
+Expert 19,Industry,C06,QC8,"In the Protect phase I would include in the responsible role the Architecture; In the assess phase, include in the responsible role Engineering and Architecture; also in the Respond phase add Architecture and Engineering responsible roles"
+Expert 20,Industry,Overall,QO1,The sum of the clusters do provide the proper coverage of the subject. The one thing I noticed is there are some overlaps between clusters that can cause some confusion or blurry boundaries
+Expert 20,Industry,Overall,QO2,"It gives clear directions on how to tackle a subject and it maps well into actions. On C07 and C09, depending on the way you interpret, Assess could come before Protect, since assessing risks and other subjects early on could prevent expensive rework later on."
+Expert 20,Industry,Overall,QO3,"Yes, even at first glance it is possible to map to actionable items on a roadmap for a team to work on and implement"
+Expert 20,Industry,C07,QC1,"The scope is well delimited. I would only point 2 gaps. 1 - Lock-in: Switching costs, no private data export, cancellation friction, loss of history is not pointed here and it could prevent issues. 2 - C-01 and C-14 can overlap regarding addiction and attention, especially related to monetization of features that can lead to user stickness (in a bad way)"
+Expert 20,Industry,C07,QC2,"Autonomy, Transparency & Explainability and Fairness fit well. Maybe we could include the (Not) Harmfulness since the definition talks about exploitation and the harm is real (hidden charges, predatory offers appearing to over-indebted users). Society and Democracy could be included, since paid ranking and sponsored content shape what information people see."
+Expert 20,Industry,C07,QC3,"The labels provide a coherent way of organizing and reading the concern clusters. I noticed that most of them appears in all the clusters I reviewed, which makes sense."
+Expert 20,Industry,C07,QC4,"Commerce and Monetization belong together, so the concerns here makes sense."
+Expert 20,Industry,C07,QC5,"A2 and A3 address dark patterns and disclosure well, and A6 gives some solutions. A good addition could be checking if cancellation is as easy as signing up. Experimentation can also lead to some dark patterns or manipulation: A/B tests and automated optimization can converge on manipulative designs, and no action reviews experiments."
+Expert 20,Industry,C07,QC6,"Plausible. The catalogue could also say 'reuse regulatory artifacts where they exist', since a lot of companies already have this mapped somehow. A5 can fit well into automated tests comparing the disclosed amount with the amount actually charged."
+Expert 20,Industry,C07,QC7,"My only collaboration here would be to make sure the process of A4 and A5 run in a continuous way in Operations, since prices and offers often changes during campaigns and experiments. If this is being considered in Change, then I think we can disregard my point."
+Expert 20,Industry,C07,QC8,"Adding Legal/Compliance on all actions could cause unwanted bottleneck, especially in some actions that could go to other teams, such as Growth or Marketing, since they are usually the ones responsible for handling campaigns, offers and experiments. I'm also not sure about the Responsible Technology team, this is a concept I haven't seen on prior experiences."
+Expert 20,Industry,C08,QC1,"It seems the scope of this one clash with other clusters. This one handles two distinct audiences: Internal observability and external transparency. Internal observablity tackles traceability, lack of data and operations overall. External transparency tackles user information and other stakeholders. This cluster handles Communication which could clash with C-17 and C-24. Lack of data can also clash with the concept of Data Quality, presented at C-16."
+Expert 20,Industry,C08,QC2,"The human and Management of adverse effects fits well into this cluster. Same goes for Responsibility and Accountability, especially when it relates to traceability. The only one that I think the link is weak is Openness and Plurality / Cultural Sensitivities (since I understood that openess of the cluster concern and openess in a societal context is different, although they share the same name)"
+Expert 20,Industry,C08,QC3,"As mentioned on the previous cluster, it fits really well and it allows easy understanding of each concern of the cluster"
+Expert 20,Industry,C08,QC4,"Some of these concepts may belong to another cluster (such as the lack of data, which could map to data quality). Traceability and observability goes into a technical aspect. If the focus is internal transparency, I think it fits well, but including external transparency may blur the boundaries a little bit, which could mix operational engineering aspects with LGPD and transparency with external stakeholders."
+Expert 20,Industry,C08,QC5,"The actions maps well to the concerns. If we talk about observability and extends this to understand who is accessing what and from where, it could lay on private data as well, which could clash with another cluster concern"
+Expert 20,Industry,C08,QC6,"The artifacts makes sense. I would increment with automated routines that generates documents and evidences, since hand written documents goes stale quite fast and no team or operator maintain it."
+Expert 20,Industry,C08,QC7,"Maybe include Operations in Verify, since this can be continuous, not only on release or changes."
+Expert 20,Industry,C08,QC8,"A small improvement could be adding Data team to Respond, since Data and Governance ofter work together in defining the output of data observability, as well as the correction"
+Expert 20,Industry,C09,QC1,"The scope seems very broad. The boundary with other clusters is blurry, as this could fall into C-06 (Fairness) and C-20 (Usability)."
+Expert 20,Industry,C09,QC2,"I would argue about Privacy not fitting well, but this could mean collecting data about specific characteristics of audiences to include them and improve accessibility, which makes sense."
+Expert 20,Industry,C09,QC3,"As mentioned before, the labels give a coherent navigation through the concern clusters"
+Expert 20,Industry,C09,QC4,"While the concerns can have similar causes or solutions, they are too distinct. In my opinion, topics like Diversity in a team can be traced to the organization itself, inclusion is more of a characteristic of the product and not necessarily the development team. Accessibility can also be related to disabilities, while access can relate to geographical and societal issues, which have distinct causes and solutions."
+Expert 20,Industry,C09,QC5,"The actions seems to cover the concerns. Maybe include specifics regarding multi-country releases, where not only translation should be considered, but the cultural aspects and regulations"
+Expert 20,Industry,C09,QC6,Some automated artifacts can be used (automated testing for translation to avoid releasing text without proper translation). Including regulations on the first action depending on the country could also improve the process
+Expert 20,Industry,C09,QC7,The phases do make sense. Accessibility design phase is very important early on to avoid a costly rework.
+Expert 20,Industry,C09,QC8,Most companies I've worked handled accessibility through UX designers. So this team can be the fallback in case there is no one specifically for Accessibility only features. Maybe Legal/Compliance can also understand different regulations depending on the localization of the system
+Expert 21,Industry,C13,QC2,To add Transparency and Explainability in the Human card
+Expert 21,Industry,C13,QC8,"Add also P&D in the cycle phases of Know, Protect, Inform, and Respond"
+Expert 21,Industry,C14,QC2,Add in the Societal card Inclusive and Participatory design
+Expert 1,Academia,Overall,QO4,It provides a way to a structured approach the concerns.
+Expert 1,Academia,Overall,QO5,"some steps/phases, roles, and actions are a bit generic."
+Expert 2,Academia,Overall,QO4,"It offers a guide to practictioners, including non ethics experts practitioners, to deal with an emerging topic, which is however relevant and regulated by laws more and more (see EU AI Act)."
+Expert 2,Academia,Overall,QO5,"As with any new solution under development, it needs to be extensively evaluated from different perspectives and with the involvement of experts from diverse backgrounds, as you are already doing. One of the main risks concerns the level of abstraction of the catalogue, which may lead to different interpretations. However, as a catalogue, it should remain sufficiently general to be applicable across different contexts, while providing enough guidance, examples, and explanatory material to reduce ambiguity and support consistent use."
+Expert 2,Academia,Overall,QO6,I do not have any specific additional recommendations at this stage.
+Expert 3,Academia,Overall,QO4,It paves the way to be able to operationalse ethical concerns.
+Expert 3,Academia,Overall,QO5,The study focuses more on as a way to operationalise ethical concers/actions rather than serving as it. 
+Expert 4,Academia,Overall,QO4,it has a systematic structure. 
+Expert 5,Academia,Overall,QO4,"clear definition/idea about the clusters, and mapping is clear also"
+Expert 5,Academia,Overall,QO5,some roles are not clear or maybe differently classified based on known papers/practices
+Expert 5,Academia,Overall,QO6,none
+Expert 6,Academia,Overall,QO4,"The categorization of all phases, actions, and SDLC"
+Expert 6,Academia,Overall,QO5,Maintainability and automatization of traceability from requirements to operation
+Expert 6,Academia,Overall,QO6,"A recommendation would be to look for synergies or points where efforts can be joined concerning the incorporation of concerns currently not fully addressed in software development such as fairness or sustainability.
+ "
+Expert 7,Academia,Overall,QO4,"They provide a comprehensive catalogue that must be addressed and is more concise than the previous literature, and the mapping to the 6-phase cycle is actionable."
+Expert 7,Academia,Overall,QO5,some clusters/classes are too generic
+Expert 7,Academia,Overall,QO6,some clusters need clarification like trust/trustworthiness and sustainability
+Expert 8,Academia,Overall,QO4,Having a catalog of concerns can help the development of solutions aimed at preventing their negative manifestation in the software.
+Expert 8,Academia,Overall,QO5,"In my opinion, some concerns could still be clustered, such as Transparency and Explainability"
+Expert 8,Academia,Overall,QO6,None
+Expert 9,Academia,Overall,QO4,the guidance provided for adressing concerns
+Expert 9,Academia,Overall,QO5,"some of the concerns should fall in hard ethics part and should be already traeted as requirements eg data protection, user data collection, safety. They should eb taken into account even with just requirement and verificationa nd validation. "
+Expert 10,Academia,Overall,QO4,Esy to understand 6 step cycle for non technical people
+Expert 10,Academia,Overall,QO5,clear boundaries/guidance for handling concerns needs to be taken care of 
+Expert 11,Academia,Overall,QO4,The systematic translation of ethical concerns into operational actions
+Expert 11,Academia,Overall,QO5,The main limitation is the risk of overagregation. So as we said some clusters combine clusters that are losely that can make on resulting actions broader and conceptually less precise.
+Expert 11,Academia,Overall,QO6,One could be good add an explicity boundary notes for clusters that overlop with the ideas of other cluster concens. Makke clear to how the catalogue and the phases are illustrative than being prescritive. Boundary notes just to avoid ambiguity
+Expert 12,Academia,Overall,QO4,"The strategy from two different sources, from Academia and Industry (completeness)"
+Expert 12,Academia,Overall,QO5,"It is complex, and the complexibility has the possibility of mapping something wrong, missing some mapping"
+Expert 13,Academia,Overall,QO6,Define the phases and artifacts speaking with organization industry could be the best way
+Expert 14,Industry,Overall,QO4,Mapping with cards makes it easy to understand the idea.
+Expert 14,Industry,Overall,QO5,"Some strong/niche concerns are hard to fully comprehend, e.g., free speech and axiology."
+Expert 14,Industry,Overall,QO6,The tables of know-respond etc could be shown as a graph and then will be easy to understand as a developer or as another expert in the field.
+Expert 16,Industry,Overall,QO4,"To give a clear guide which are the risks you have to look for, and the possible actions that can mitigate those risks. It provides a clear structure to the company to identify and mitigate the risks."
+Expert 16,Industry,Overall,QO5,Maybe an hierarchy of clusters to mitigate misclassification
+Expert 16,Industry,Overall,QO6,You can do this with LLM to help identify the labels to assist this task.
+Expert 17,Industry,Overall,QO4,"Many of these concerns are often discussed in the industry, but they are usually thought of as secondary objectives. Having a framework for identifying the concerns and achieving meaningful improvements is an important step to actually have them addresssed."
+Expert 17,Industry,Overall,QO5,"Each organization is unique, so not all concerns map the same way everywhere. I would suggest adding example scenarios to certain concerns, illustrating when they may happen and what might be their consequences."
+Expert 17,Industry,Overall,QO6,"The idea reminds me of Software Bill of Materials (SBOM). SBOM is like the ""list of ingredients"" for software, while the ethical concern labels are like a ""nutrition score"". It would be interesting to think of them together."
+Expert 18,Industry,Overall,QO4,"The main strength is the structured translation of high-level ethical concerns into practical and actionable recommendations. The six-action cycle, together with suggested evidence, SDLC phases, and responsible roles, makes the approach easier to apply in software and system engineering practice."
+Expert 18,Industry,Overall,QO5,"A main limitation is the potential overlap between some concern clusters, since certain concerns such as resilience, and communication may appear across multiple clusters. Clearer boundaries and explanations of how overlapping concerns should be interpreted would improve consistency."
+Expert 18,Industry,Overall,QO6,"It could be useful to make the continuous improvement loop more explicit across the catalogue, so that findings from verification, monitoring, incidents, stakeholder feedback, or contextual changes systematically lead to reassessment and updates to the relevant actions, controls, or recommendations."
+Expert 19,Industry,Overall,QO4,"The model proposed using clusters, labels, and actions is a structured way of treating the ethical concerns moving from an abstract dimension to practical one"
+Expert 19,Industry,Overall,QO5,"Depending on the company size, the approach is much detailed. This also happens using the PMbok, maybe not feasible for small initiatives"
+Expert 19,Industry,Overall,QO6,"First you should apply several pilot, in different initiatives, using different domains, and evaluate the improvement points"
+Expert 20,Industry,Overall,QO4,"It tangibilizes completely different abstract subjects and components into actions with a clear pattern and structure, which facilitates implementation for Engineering teams. It is easy to transform the evidences and artifacts into a Definition of Done and Definition of Ready for subsequent actions. Most companies uses the same process for planning roadmaps, so a framework like this can fit well into most organizations"
+Expert 20,Industry,Overall,QO5,"Maybe the amount of artifacts can be a burden for larger organizations, especially older ones with an already giant catalogue of internal process and documents."
+Expert 20,Industry,Overall,QO6,"It really depends on each organization, but mapping or having a way for teams to map the clusters to already existing regulations can facilitate the onboarding and help teams to reuse their work. Also, it could be good to always prefers automated evidences/artifacts generation whenever possible, especially in the new AI era, teams can avoid staleness of documents and process and avoid operational burden."
+Expert 21,Industry,Overall,QO4,It stablishes a method that can be used as a guide is the main benefice of the proposed approach
+Expert 21,Industry,Overall,QO5,I don't see significative risks
