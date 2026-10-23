@@ -72,7 +72,9 @@ The operational recommendations follow a recurring six-action structure:
 
 Artefacts, phases, and roles are intended as adaptable guidance. Their application should reflect the system, team, and organisational context. Ethical concerns may also overlap across clusters.
 
-### (Ethics_Catalogue/Prompt_mapping_label_cards.pdf): Prompt used to map concern clusters to ethical label cards and their associated values, justify each mapping, and distinguish primary and secondary mappings.
+### Prompt_mapping_label_cards.pdf)
+
+Prompt used to map concern clusters to ethical label cards and their associated values, justify each mapping, and distinguish primary and secondary mappings.
 
 ## 4. Interview Preparation
 
