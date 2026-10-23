@@ -1,6 +1,6 @@
 # Ethic-aware-SE-replication-package
 
-Replication package for **Bridging Concept and Practice: A Developer-Facing Catalogue for Ethics-Aware Software Engineering**
+Replication package for **Bridging Concept and Practice: A Developer-Facing Catalogue for Ethics-Aware Software Engineering**.
 
 This repository provides the research materials supporting the construction and expert validation of a catalogue for addressing ethical concerns in software engineering.
 
