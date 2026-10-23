@@ -15,9 +15,6 @@ The qualitative table is a targeted, single-pass synthesis of recurring improvem
 
 Anonymous comments are supplied for review. They retain original spelling and wording. The published LaTeX uses synthesis rather than identifying quotations and includes no names, organisations or source links. Anonymous IDs are pseudonyms.
 
-## Reproduce
-The supplementary ZIP contains all CSVs, with anonymous input. Inputs contain questions and comments but omit participant names and organisation fields. The script generates a `calculated_results` directory. Its qualitative coding selections are transparent within the script.
-
 ## Limits
 Each cluster has only two or three reviewers; individual distributions matter. Overall usefulness is expert-perceived usefulness, not measured deployment effectiveness. Non-random expert selection and the questionnaire's combined partial-agreement/neutral category limit interpretation. The output is a draft results section for author review.
 
