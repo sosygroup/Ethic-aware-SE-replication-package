@@ -13,7 +13,7 @@ The materials allow readers to explore the catalogue, trace its construction, in
 - **[Concerns_bases.xlsx](Concerns_bases.xlsx):** Ethical concerns collected from the literature and industry, with the consolidated list.
 - **[Selected_References.xlsx](Selected_References.xlsx):** Supporting references used to construct the catalogue.
 - **[Clusterization/](Clusterization/):** Human and LLM-assisted clustering, the prompt used, and reconciliation materials.
-- **[Ethics_Catalogue/](Ethics_Catalogue/):** Consolidated catalogue of 24 ethical concern clusters after expert validation.
+- **[Ethics_Catalogue/](Ethics_Catalogue/):** Consolidated catalogue of 24 ethical concern clusters after expert validation and the prompt used to map concern clusters to ethical label cards and their associated values.
 - **[Interview_preparation/](Interview_preparation/):** Pre-read brief and evaluation workbooks used in the expert interviews.
 - **[Interview_Results_Data/](Interview_Results_Data/):** Anonymised ratings, comments, and descriptive results from the expert evaluation.
 - **[README.md](README.md):** Overview of the repository and its contents.
@@ -71,6 +71,8 @@ The operational recommendations follow a recurring six-action structure:
 **Know → Protect → Inform → Assess → Verify → Respond**
 
 Artefacts, phases, and roles are intended as adaptable guidance. Their application should reflect the system, team, and organisational context. Ethical concerns may also overlap across clusters.
+
+### (Ethics_Catalogue/Prompt_mapping_label_cards.pdf): Prompt used to map concern clusters to ethical label cards and their associated values, justify each mapping, and distinguish primary and secondary mappings.
 
 ## 4. Interview Preparation
 
