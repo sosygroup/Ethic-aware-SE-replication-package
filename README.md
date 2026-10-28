@@ -68,7 +68,7 @@ Each cluster includes:
 
 The operational recommendations follow a recurring six-action structure:
 
-**Know → Protect → Inform → Assess → Verify → Respond**
+**Know → Protect → Inform → Assess → Validate → Respond**
 
 Artefacts, phases, and roles are intended as adaptable guidance. Their application should reflect the system, team, and organisational context. Ethical concerns may also overlap across clusters.
 
