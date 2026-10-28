@@ -76,6 +76,10 @@ Artefacts, phases, and roles are intended as adaptable guidance. Their applicati
 
 Prompt used to map concern clusters to ethical label cards and their associated values, justify each mapping, and distinguish primary and secondary mappings.
 
+### Actions-Cycle-Fundations.pdf
+
+The conceptual foundations of the actions cycle proposed. The references used can be found in the file **[Selected_References.xlsx](Selected_References.xlsx):**.
+
 ## 4. Interview Preparation
 
 The [Interview_preparation/](Interview_preparation/) folder contains the materials prepared for the expert evaluation.
