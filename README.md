@@ -119,6 +119,7 @@ The [Interview_Results_Data/](Interview_Results_Data/) folder provides anonymise
 | [expert_weighting_sensitivity.csv](Interview_Results_Data/expert_weighting_sensitivity.csv) | Comparison of pooled mean ratings with means calculated by giving equal weight to each expert. |
 | [selected_qualitative_evidence 2.csv](Interview_Results_Data/selected_qualitative_evidence%202.csv) | Selected comments organised into refinement themes, with traceability to the corresponding evaluation records. |
 | [cluster_heatmap.png](Interview_Results_Data/cluster_heatmap.png) | Visual summary of cluster evaluation results. |
+| [Experts-profile.pdf](Interview_Results_Data/Experts-profile.pdf) | The profile of the 21 experts involved in the validation. |
 
 ### Interpretation Notes
 
